@@ -1,0 +1,20 @@
+.loading-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .loading-content {
+    text-align: center;
+  }
+  
+  .loading-content h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .loading-content .spinner-border {
+    margin: 0.5rem;
+  }
+  

@@ -1,0 +1,11 @@
+.card{
+    height: 325px;
+  }
+  .card img{
+    height: 250px;
+  }
+
+  .cardTitle{
+    text-align: center;
+    text-underline-position: under;
+  }
